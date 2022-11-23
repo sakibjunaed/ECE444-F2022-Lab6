@@ -5,12 +5,12 @@ https://github.com/ECE444-2022Fall/project-1-web-application-design-education-pa
 
 ## Pros and Cons of TDD
 
-Pros: 
-Automation: Allows developers test features automatically without having to do each test manually, which can be time consuming and have errors
-Quality of Code: You will be writing code to pass the tests, and this ensures that your code is functional and optimized
-Prevent bugs: As you write small chunks of code you are constantly testing it. This is better than writing a big chunk and testing it all at the end and failing alot
+Pros: <br>
+Automation: Allows developers test features automatically without having to do each test manually, which can be time consuming and have errors <br>
+Quality of Code: You will be writing code to pass the tests, and this ensures that your code is functional and optimized <br>
+Prevent bugs: As you write small chunks of code you are constantly testing it. This is better than writing a big chunk and testing it all at the end and failing alot <br>
 
-Cons:
-Slows down development: Planning and writing test cases is time consuming, taking time away from developers to make progress on implementing functionality
-Performance: Running large amount of test cases can take alot of time and resources
-Bad tests: Tests may not be rigrourous or contain bugs themselves, so just because your code passes the tests, it doesn't guarantee that it performs as expected. 
+Cons:<br>
+Slows down development: Planning and writing test cases is time consuming, taking time away from developers to make progress on implementing functionality<br>
+Performance: Running large amount of test cases can take alot of time and resources<br>
+Bad tests: Tests may not be rigrourous or contain bugs themselves, so just because your code passes the tests, it doesn't guarantee that it performs as expected. <br>
